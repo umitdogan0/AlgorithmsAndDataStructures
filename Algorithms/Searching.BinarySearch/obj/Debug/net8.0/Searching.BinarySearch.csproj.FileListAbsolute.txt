@@ -12,3 +12,4 @@
 /home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.pdb
 /home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.genruntimeconfig.cache
 /home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/ref/Searching.BinarySearch.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.sourcelink.json

@@ -1,4 +1,4 @@
-﻿bool BinarySearch(int[] array , int value)
+﻿bool BinarySearch<T>(T[] array , T value)
 {
     int left = 0;
     int right = array.Length - 1;
@@ -8,17 +8,17 @@
     {
         
         int mid = left + (right - left) / 2;
-        if (array[mid] == value)
+        if (array[mid].Equals(value))
         {
             return true;
         }
-        if (array[mid] < value )
+        if (Comparer<T>.Default.Compare(value , array[mid]) > 0)
         {
             left = mid + 1;
         }
         else
         {
-            right = mid + 1;
+            right = mid - 1;
         }
     }
 
@@ -26,4 +26,5 @@
 }
 
 
-Console.WriteLine(BinarySearch(new []{1,2,3,4,5} , 7));
+Console.WriteLine(BinarySearch(new []{1,2,3,4,5} , 2));
+Console.WriteLine(BinarySearch(new []{"Ahmet","Erdem" , "Faruk" } , "Faruk"));
