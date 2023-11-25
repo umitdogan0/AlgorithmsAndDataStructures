@@ -1,0 +1,14 @@
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/bin/Debug/net8.0/Sorting.BubbleSort
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/bin/Debug/net8.0/Sorting.BubbleSort.deps.json
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/bin/Debug/net8.0/Sorting.BubbleSort.runtimeconfig.json
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/bin/Debug/net8.0/Sorting.BubbleSort.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/bin/Debug/net8.0/Sorting.BubbleSort.pdb
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.GeneratedMSBuildEditorConfig.editorconfig
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.AssemblyInfoInputs.cache
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.AssemblyInfo.cs
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.csproj.CoreCompileInputs.cache
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/refint/Sorting.BubbleSort.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.pdb
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/Sorting.BubbleSort.genruntimeconfig.cache
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Sorting.BubbleSort/obj/Debug/net8.0/ref/Sorting.BubbleSort.dll

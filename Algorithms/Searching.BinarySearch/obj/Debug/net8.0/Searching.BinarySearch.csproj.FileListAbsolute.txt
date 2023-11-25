@@ -1,0 +1,14 @@
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/bin/Debug/net8.0/Searching.BinarySearch
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/bin/Debug/net8.0/Searching.BinarySearch.deps.json
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/bin/Debug/net8.0/Searching.BinarySearch.runtimeconfig.json
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/bin/Debug/net8.0/Searching.BinarySearch.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/bin/Debug/net8.0/Searching.BinarySearch.pdb
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.AssemblyInfoInputs.cache
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.AssemblyInfo.cs
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.csproj.CoreCompileInputs.cache
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/refint/Searching.BinarySearch.dll
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.pdb
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/Searching.BinarySearch.genruntimeconfig.cache
+/home/umit/Desktop/Harddisk/source/repos/AlgorithmsAndDataStructures/Algorithms/Searching.BinarySearch/obj/Debug/net8.0/ref/Searching.BinarySearch.dll
